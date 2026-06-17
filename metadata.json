@@ -1,0 +1,6 @@
+{
+  "name": "SmartBank Syariah",
+  "description": "Aplikasi Laboratorium Virtual Perbankan Syariah interaktif untuk siswa belajar menjadi bankir syariah profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
